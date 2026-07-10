@@ -4,6 +4,24 @@
 
 I turn business requirements into scalable backends and polished, interactive frontends. Node and React are my day-to-day stack; I also work with **Laravel** and **Vue.js** when a project calls for them.
 
+### 🔭 Currently working on
+
+- **Learning AWS** on [NextWork](https://www.nextwork.org/) — hands-on cloud, deployment, and infrastructure projects
+- **Building an ATS** — an applicant tracking system with **Node.js** and **React.js**
+
+### ☁️ AWS learning journey
+
+I'm building AWS skills project-by-project on **NextWork** — each lab auto-documents as I go, so my portfolio grows with every completion.
+
+<a href="https://nextwork.ai/eager_blue_majestic_otter/docs/aws-beginners-challenge">
+  <img src="https://img.shields.io/badge/AWS-View%20my%20NextWork%20portfolio-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="NextWork AWS portfolio" />
+</a>
+
+- [x] [Build and deploy a website on Amazon S3](https://nextwork.ai/eager_blue_majestic_otter/docs/aws-host-a-website-on-s3)
+- [ ] Deploy a Node.js API with in EC2 and ECS
+- [ ] Create data visualizations with Amazon QuickSight
+- [x] [Implement security best practices with AWS IAM](https://nextwork.ai/eager_blue_majestic_otter/docs/aws-security-iam)
+
 ### 🛠 Tech stack
 
 **Primary**
