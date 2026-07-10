@@ -9,7 +9,7 @@ I turn business requirements into scalable backends and polished, interactive fr
 **Primary**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
 </p>
 
