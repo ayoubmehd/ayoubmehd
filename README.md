@@ -37,5 +37,3 @@ I'm building AWS skills project-by-project on **NextWork** — each lab auto-doc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
 </p>
-
-[![ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubmehd&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
